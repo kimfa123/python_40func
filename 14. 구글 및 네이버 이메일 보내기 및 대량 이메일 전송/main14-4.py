@@ -10,8 +10,8 @@ for i in range(1, load_ws.max_row + 1):
     recv_email_value = load_ws.cell(i,1).value
     print("성공:",recv_email_value)
     try:
-        send_email = "kimfa123@naver.com"
-        send_pwd = "rlawlgns123!@#"
+        send_email = ""
+        send_pwd = ""
 
         recv_email = "kimvz2002@hanmail.net"
 

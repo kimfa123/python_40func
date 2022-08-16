@@ -4,7 +4,7 @@ from email.mime.text        import MIMEText
 from email.mime.application import MIMEApplication
 
 send_email = "kimfa123@naver.com"
-send_pwd = "rlawlgns123!@#"
+send_pwd = ""
 
 recv_email = "kimvz2002@hanmail.net"
 
