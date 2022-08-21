@@ -18,7 +18,7 @@ msg['To'] = recv_email
 
 html_body = """
 <p>안녕하세요 html 형식으로 보내는 이메일 테스트 입니다.</p>
-<p><span style="color: #0000ff;">글자의 색상을 지정하거나</span></p>
+<p><span style="color: #0000ff;">글자의 색상을 지정하거나</span></p>l
 <h1><span style="color: #000000;">크기를 조정할수 있습니다.</span></h1>
 <p><span style="color: #000000;">표도 만들수 있습니다.</span></p>
 <table style="height: 101px;" width="528">
